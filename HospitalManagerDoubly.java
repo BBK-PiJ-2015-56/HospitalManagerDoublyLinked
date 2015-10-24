@@ -1,3 +1,5 @@
+//changes for demo purposes
+
 public class HospitalManagerDoubly{
 	private Patient patientListStart = null;    
 	//creates and points to a first patient space in memory, but this space doesn't point to any values for the patient (ie null)
